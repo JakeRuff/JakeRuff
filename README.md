@@ -1,4 +1,4 @@
-# Hi, I'm [Jake](https://jakeruff.com) 👋
+# Hi, I'm Jake 👋
 
 ![age](https://img.shields.io/badge/age-23-blue)
 ![focus](https://img.shields.io/badge/focus-frontend-brightgreen)
@@ -9,4 +9,6 @@
 * Passionate about front-end web development
 * Stuff I know: HTML, CSS, JavaScript, Bootstrap
 * Stuff I'm learning: ReactJS, MongoDB
+
+### [Personal Portfolio Site](http://www.jakeruff.com/)
 <br />
