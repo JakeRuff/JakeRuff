@@ -13,6 +13,5 @@
 ### [🌎 My Personal Portfolio Site](http://www.jakeruff.com/)
 ### [💼 LinkedIn](http://www.linkedin.com/in/jake-ruff)
 ### [📝 Download my Resume](http://www.jakeruff.com/)
-
 ### [📧 Shoot me an email!](mailto:jake@jakeruff.com)
-<br />
+
