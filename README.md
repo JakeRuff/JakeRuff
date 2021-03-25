@@ -10,8 +10,8 @@
 * Stuff I know: HTML, CSS, JavaScript, Bootstrap
 * Stuff I'm learning: ReactJS, MongoDB
 
-### [🌎 My Personal Portfolio Site](http://www.jakeruff.com/)
+### [🌎 My Personal Portfolio Site](https://ruff.dev/)
 ### [💼 LinkedIn](http://www.linkedin.com/in/jake-ruff)
 ### [📝 Download my Resume](https://drive.google.com/uc?export=download&id=1duOepI40qJGQoqNihXn3YSHAp6YajNVH)
-### [📧 Shoot me an email!](mailto:jake@jakeruff.com)
+### [📧 Shoot me an email!](mailto:jake@ruff.dev)
 
