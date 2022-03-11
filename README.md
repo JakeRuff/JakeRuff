@@ -5,10 +5,10 @@
 ![living](https://img.shields.io/badge/living-Texas-red)
 
 ### Here's the summary:
-* Recent graduate from Texas State University - B.S. in [Digital Media Innovation](https://www.masscomm.txstate.edu/degrees-programs/digital-media-innovation.html)
+* Graduated from Texas State University - B.S. in [Digital Media Innovation](https://www.masscomm.txstate.edu/degrees-programs/digital-media-innovation.html)
 * Passionate about front-end web development
-* Stuff I know: HTML, CSS, JavaScript, Bootstrap
-* Stuff I'm learning: ReactJS, MongoDB
+* Stuff I know: HTML, CSS, JavaScript, Bootstrap, WordPress custom theme development
+* Stuff I'm learning: ReactJS, PHP
 
 ### [🌎 My Personal Portfolio Site](https://ruff.dev/)
 ### [💼 LinkedIn](http://www.linkedin.com/in/jake-ruff)
