@@ -1,6 +1,6 @@
 # Hi, I'm Jake 👋
 
-![age](https://img.shields.io/badge/age-25-blue)
+![age](https://img.shields.io/badge/age-26-blue)
 ![focus](https://img.shields.io/badge/focus-frontend-brightgreen)
 ![living](https://img.shields.io/badge/living-Texas-red)
 
@@ -12,6 +12,6 @@
 
 ### [🌎 My Personal Portfolio Site](https://ruff.dev/)
 ### [💼 LinkedIn](http://www.linkedin.com/in/jake-ruff)
-### [📝 Download my Resume](https://drive.google.com/file/d/1ODh1pSwst1fvhTdqjKz3BXpey2KmlAh-/view?usp=sharing)
-### [📧 Shoot me an email!](mailto:jake@ruff.dev)
+### [📝 Download my Resume](https://drive.google.com/file/d/1RmH7p6DW2ax_MJxtYah2YBMgmEVvR2j6/view?usp=sharing)
+### [📧 Shoot me an email](mailto:jake@ruff.dev)
 
